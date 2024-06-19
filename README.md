@@ -12,11 +12,11 @@ Team ID: C241-PS304
 # Dataset
 Dataset used during experiments:
 
-1. -
-2. -
-3. -
-4. -
-5. -
+1. -https://universe.roboflow.com/kritsakorn/acne-kbm0q
+2. -https://universe.roboflow.com/augment-gkvan/skin-problems-detection
+3. -https://app.roboflow.com/ariqhb/face-face
+4. -https://universe.roboflow.com/cobadataid/cobadata.id/dataset/7
+5. -https://universe.roboflow.com/dataset-jerawat/capstone-bjc8v/dataset/1
 
 The dataset finally used:
 https://app.roboflow.com/dataset-jerawat/capstone-bjc8v/12 
