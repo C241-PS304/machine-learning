@@ -26,6 +26,15 @@ Dataset used during experiments:
 4. https://universe.roboflow.com/cobadataid/cobadata.id/dataset/7
 5. https://universe.roboflow.com/dataset-jerawat/capstone-bjc8v/dataset/1
 
+# Model and Result
+Using the YoloV8s model with an image size of 1024 and an epoch count of 50
+![image](https://github.com/C241-PS304/machine-learning/assets/161464447/74045865-eeb1-4837-b10c-c86ed19c8b19)
+Then here is the normalized confusion matrix
+![confusion_matrix_normalized](https://github.com/C241-PS304/machine-learning/assets/161464447/17e4100e-d2ef-4ce9-a5eb-0603c7c24725)
+And also the following are the matrix results of various parameters
+![results](https://github.com/C241-PS304/machine-learning/assets/161464447/755843d0-a53c-4158-96df-5c3c7f9ef998)
+The last is the validation result of the model created from the training results.
+![val_batch2_labels](https://github.com/C241-PS304/machine-learning/assets/161464447/ab28c9b2-f8e1-4385-a28c-dc3b143d3f17)
 
 The dataset finally used:
 https://app.roboflow.com/dataset-jerawat/capstone-bjc8v/12 
