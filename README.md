@@ -10,21 +10,24 @@ Team ID: C241-PS304
 (ML) M004D4KY1424 – Muhammad Fauzan Ariyatmoko – Institut Teknologi Sepuluh Nopember
 
 # Dataset
-Dataset used during experiments:
+## Dataset used during experiments:
 
-## Kaggle:
+### Kaggle:
 1. https://www.kaggle.com/datasets/pkompally/dark-circle
 2. https://www.kaggle.com/datasets/mohit335448/ageing-dataset
 3. https://www.kaggle.com/datasets/osmankagankurnaz/acne-dataset-in-yolov8-format
 4. https://www.kaggle.com/datasets/cubeai/acne-detection-for-yolov8
 5. https://www.kaggle.com/datasets/nayanchaure/acne-dataset
 
-## Robloflow:
+### Robloflow:
 1. https://universe.roboflow.com/kritsakorn/acne-kbm0q
 2. https://universe.roboflow.com/augment-gkvan/skin-problems-detection
 3. https://app.roboflow.com/ariqhb/face-face
 4. https://universe.roboflow.com/cobadataid/cobadata.id/dataset/7
 5. https://universe.roboflow.com/dataset-jerawat/capstone-bjc8v/dataset/1
+
+## The dataset finally used:
+https://app.roboflow.com/dataset-jerawat/capstone-bjc8v/12 
 
 # Model and Result
 Using the YoloV8s model with an image size of 1024 and an epoch count of 50
@@ -41,8 +44,3 @@ Using the YoloV8s model with an image size of 1024 and an epoch count of 50
 ## Validation result of the model created from the training results.
 
 ![val_batch2_labels](https://github.com/C241-PS304/machine-learning/assets/161464447/ab28c9b2-f8e1-4385-a28c-dc3b143d3f17)
-
-The dataset finally used:
-https://app.roboflow.com/dataset-jerawat/capstone-bjc8v/12 
-
-
