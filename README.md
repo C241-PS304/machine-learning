@@ -1,4 +1,6 @@
-# Skin Track - Machine Learning Path
+
+# Skin Track - Machine Learning Path![Skin-track_Logo](https://github.com/C241-PS304/machine-learning/assets/86099911/1c8540cb-f77d-420d-881c-9030a3eb786b)
+
 Bangkit 2024 Product-based Capstone
 
 Team ID: C241-PS304
