@@ -31,11 +31,11 @@ https://app.roboflow.com/dataset-jerawat/capstone-bjc8v/12
 
 # Model and Result
 Using the YoloV8s model with an image size of 1024 and an epoch count of 50
-![image](https://github.com/C241-PS304/machine-learning/assets/161464447/74045865-eeb1-4837-b10c-c86ed19c8b19)
+![image](https://github.com/C241-PS304/machine-learning/assets/86099911/b7cbf60e-5ca3-40d3-8589-94edd54587ab)
 
-## Normalized confusion matrix
 
-![confusion_matrix_normalized](https://github.com/C241-PS304/machine-learning/assets/161464447/17e4100e-d2ef-4ce9-a5eb-0603c7c24725)
+## confusion matrix
+![confusion_matrix](https://github.com/C241-PS304/machine-learning/assets/86099911/c8b6c232-2ff4-436b-8638-51a27bcebe6b)
 
 ## Matrix results of various parameters
 
